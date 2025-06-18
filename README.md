@@ -37,6 +37,6 @@
 ---
 
 ### 📫 Contact
-- Email: hong@abc.com
-- GitHub: [github.com/yourname](https://github.com/yourname)
+- Email: rudckd8978@naver.com
+- GitHub: [github.com/yourname](https://github.com/gangchang)
 trr
